@@ -1,1 +1,1 @@
-# Sully FastAPI server logic
+# Sully FastAPI server logic with upload and auth routes

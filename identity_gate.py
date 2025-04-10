@@ -1,1 +1,1 @@
-# Auth system with Marc's signature code
+# Authentication system using Marc's private code

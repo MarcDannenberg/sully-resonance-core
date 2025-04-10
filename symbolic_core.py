@@ -1,1 +1,1 @@
-# Sully's core symbolic engines
+# Sully's symbolic reasoning, plasmonic kernel, and reframer
